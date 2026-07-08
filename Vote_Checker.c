@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    char name[99];
+    char name[100];
     printf("Input your name:\n");
     scanf("%99s", name);
     int age;
